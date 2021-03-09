@@ -10,6 +10,13 @@
   padding-right: 32px;
 }
 
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
 .main_menu {
   display: -webkit-box;
   display: -ms-flexbox;
